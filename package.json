@@ -1,0 +1,23 @@
+{
+  "name": "qiankuntest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouHuaLu/qiankunTEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zouHuaLu/qiankunTEST/issues"
+  },
+  "homepage": "https://github.com/zouHuaLu/qiankunTEST#readme",
+  "dependencies": {
+    "qiankun": "^2.7.5"
+  }
+}
